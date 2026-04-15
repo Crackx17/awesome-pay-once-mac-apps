@@ -61,6 +61,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor in your menu bar — CPU, memory, disk, network, battery, and weather. $11.99
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Powerful Mac automation with macros, triggers, and scripting for repetitive tasks. $36
 - [PopClip](https://www.popclip.app/) - Instant text actions on select — copy, paste, search, translate, format, and 200+ extensions. $19
+- [SnapHotkey](https://snaphotkey.com) - Assign keyboard shortcuts directly to specific apps — press once to focus, press again to hide. Supports Left/Right modifier key distinction for double the shortcut slots. $9.99
 
 ---
 
