@@ -50,6 +50,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 ## Productivity
 
+- [TabControl](https://tabcontrol.app/) - Native Safari tab manager for saved sessions, tab suspension, AI organization, and iCloud sync. $3.99
 - [Things 3](https://culturedcode.com/things/) - Award-winning task manager with natural language input, headings, and project organization. $49.99
 
 ## Utilities
