@@ -50,6 +50,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 ## Productivity
 
+- [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986) - Quiet rain-sound ambience for deep sleep and focus sessions. $6.99
 - [Things 3](https://culturedcode.com/things/) - Award-winning task manager with natural language input, headings, and project organization. $49.99
 
 ## Utilities
