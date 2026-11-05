@@ -50,6 +50,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 ## Productivity
 
+- [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455) - Focus ambience studio with rain, fireplace, cafe, and nature soundscapes. $4.99
 - [Things 3](https://culturedcode.com/things/) - Award-winning task manager with natural language input, headings, and project organization. $49.99
 
 ## Utilities
