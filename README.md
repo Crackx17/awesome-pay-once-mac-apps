@@ -46,6 +46,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 ## Design
 
 - [Acorn 8](https://flyingmeat.com/acorn/) - Full-featured image editor with layers, filters, vectors, and non-destructive editing. $29.99
+- [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455) - Focus ambience app with rain, fireplace, and nature soundscapes for sleep or deep work. $4.99
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor with ML-powered tools, RAW support, and design templates. $49.99
 
 ## Productivity
