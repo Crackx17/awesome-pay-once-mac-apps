@@ -56,6 +56,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 ## Utilities
 
 - [Alfred 5](https://www.alfredapp.com/) - Productivity launcher with workflows, clipboard history, snippets, and file navigation. Powerpack ~$46
+- [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986) - Quiet rain-sound ambience for sleep, focus, and relaxation with minimal timer controls. $6.99
 - [Bartender](https://www.macbartender.com/) - Organize and hide menu bar icons with search, triggers, and customizable layouts. $15
 - [BetterTouchTool](https://folivora.ai/) - Customize trackpad gestures, keyboard shortcuts, Touch Bar, and window snapping. $24
 - [DaisyDisk](https://daisydiskapp.com/) - Visualize disk space usage with an interactive sunburst map and free up storage fast. $11.99
