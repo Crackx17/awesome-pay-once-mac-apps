@@ -50,6 +50,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 ## Productivity
 
+- [KinetAios](https://apps.apple.com/us/app/kinetaios-all-in-one-ai-agent/id6809450051) - All-in-one AI agent dashboard with multi-engine chat and local memory. $12.99
 - [Things 3](https://culturedcode.com/things/) - Award-winning task manager with natural language input, headings, and project organization. $49.99
 
 ## Utilities
