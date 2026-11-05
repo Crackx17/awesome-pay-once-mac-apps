@@ -50,6 +50,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 ## Productivity
 
+- [KinetMinutes](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104) - Local meeting notes with recording, transcripts, and speaker detection. $9.99
 - [Things 3](https://culturedcode.com/things/) - Award-winning task manager with natural language input, headings, and project organization. $49.99
 
 ## Utilities
