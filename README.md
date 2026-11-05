@@ -62,6 +62,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 - [BetterTouchTool](https://folivora.ai/) - Customize trackpad gestures, keyboard shortcuts, Touch Bar, and window snapping. $24
 - [DaisyDisk](https://daisydiskapp.com/) - Visualize disk space usage with an interactive sunburst map and free up storage fast. $11.99
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor in your menu bar — CPU, memory, disk, network, battery, and weather. $11.99
+- [KinetMagicDisk](https://apps.apple.com/us/app/kinetmagicdisk-disk-usage/id6813423397) - RAM disk manager that creates and mounts memory-speed disks with one click. $9.99
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Powerful Mac automation with macros, triggers, and scripting for repetitive tasks. $36
 - [KinetFlashFind](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046) - Instant file search by filename and content with live results as you type. $6.99
 - [KinetAios](https://apps.apple.com/us/app/kinetaios-all-in-one-ai-agent/id6809450051) - Local-first AI agent dashboard that hosts multiple AI CLI agents in parallel channels. $12.99
