@@ -41,11 +41,13 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 ## Writing
 
 - [iA Writer](https://ia.net/writer) - Focused Markdown writing app with Content Blocks, style checking, and distraction-free design. $49.99
+- [KinetMinutes](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104) - Meeting notes app with live transcription and AI summaries processed on device. $9.99
 - [Scrivener](https://www.literatureandlatte.com/) - Long-form writing app with outlining, research management, and flexible compilation to any format. $59.99
 
 ## Design
 
 - [Acorn 8](https://flyingmeat.com/acorn/) - Full-featured image editor with layers, filters, vectors, and non-destructive editing. $29.99
+- [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455) - Focus ambience app with rain, fireplace, and nature soundscapes for sleep or deep work. $4.99
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor with ML-powered tools, RAW support, and design templates. $49.99
 
 ## Productivity
@@ -55,11 +57,14 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 ## Utilities
 
 - [Alfred 5](https://www.alfredapp.com/) - Productivity launcher with workflows, clipboard history, snippets, and file navigation. Powerpack ~$46
+- [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986) - Quiet rain-sound ambience for sleep, focus, and relaxation with minimal timer controls. $6.99
 - [Bartender](https://www.macbartender.com/) - Organize and hide menu bar icons with search, triggers, and customizable layouts. $15
 - [BetterTouchTool](https://folivora.ai/) - Customize trackpad gestures, keyboard shortcuts, Touch Bar, and window snapping. $24
 - [DaisyDisk](https://daisydiskapp.com/) - Visualize disk space usage with an interactive sunburst map and free up storage fast. $11.99
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor in your menu bar — CPU, memory, disk, network, battery, and weather. $11.99
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Powerful Mac automation with macros, triggers, and scripting for repetitive tasks. $36
+- [KinetFlashFind](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046) - Instant file search by filename and content with live results as you type. $6.99
+- [KinetAios](https://apps.apple.com/us/app/kinetaios-all-in-one-ai-agent/id6809450051) - Local-first AI agent dashboard that hosts multiple AI CLI agents in parallel channels. $12.99
 - [PopClip](https://www.popclip.app/) - Instant text actions on select — copy, paste, search, translate, format, and 200+ extensions. $19
 
 ---
