@@ -41,6 +41,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 ## Writing
 
 - [iA Writer](https://ia.net/writer) - Focused Markdown writing app with Content Blocks, style checking, and distraction-free design. $49.99
+- [MiaoYan](https://miaoyan.app/) - Lightweight Markdown notebook that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and slides. One purchase covers Mac, iPhone and iPad. $12.99
 - [Scrivener](https://www.literatureandlatte.com/) - Long-form writing app with outlining, research management, and flexible compilation to any format. $59.99
 
 ## Design
