@@ -60,6 +60,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 - [DaisyDisk](https://daisydiskapp.com/) - Visualize disk space usage with an interactive sunburst map and free up storage fast. $11.99
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor in your menu bar — CPU, memory, disk, network, battery, and weather. $11.99
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Powerful Mac automation with macros, triggers, and scripting for repetitive tasks. $36
+- [Pake](https://pake.run/) - Turn any website into a lightweight Mac app with its own icon, window and Dock entry, no Node.js or Rust needed. Two apps free, then $15 once.
 - [PopClip](https://www.popclip.app/) - Instant text actions on select — copy, paste, search, translate, format, and 200+ extensions. $19
 
 ---
