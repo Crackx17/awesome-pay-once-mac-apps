@@ -61,6 +61,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor in your menu bar — CPU, memory, disk, network, battery, and weather. $11.99
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Powerful Mac automation with macros, triggers, and scripting for repetitive tasks. $36
 - [PopClip](https://www.popclip.app/) - Instant text actions on select — copy, paste, search, translate, format, and 200+ extensions. $19
+- [Wishbar](https://wishbar.app) - Mac menu bar app: type what you want in plain English and your own AI (ChatGPT through Codex, or Claude) builds it as a live widget in your menu bar. $19 for 1 Mac until 7 December, pay once
 
 ---
 
