@@ -42,6 +42,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 - [iA Writer](https://ia.net/writer) - Focused Markdown writing app with Content Blocks, style checking, and distraction-free design. $49.99
 - [Scrivener](https://www.literatureandlatte.com/) - Long-form writing app with outlining, research management, and flexible compilation to any format. $59.99
+- [TypeNod](https://typenod.com/) - Mac input method with on-device translation previews and confirmed insertion for macOS 26+, using downloaded Apple language resources. US$9.90
 
 ## Design
 
