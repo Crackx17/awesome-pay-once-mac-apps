@@ -47,6 +47,7 @@ Tired of apps draining your wallet every month? These Mac apps respect your purc
 
 - [Acorn 8](https://flyingmeat.com/acorn/) - Full-featured image editor with layers, filters, vectors, and non-destructive editing. $29.99
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor with ML-powered tools, RAW support, and design templates. $49.99
+- [XShots](https://selfark.com/xshots/) - Design and batch-export localized App Store screenshot sets on a native Mac canvas. $19.99
 
 ## Productivity
 
